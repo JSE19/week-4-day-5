@@ -51,6 +51,10 @@ $ anvil
 $ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
 ```
 
+
+###Contract Address
+0x5764E83c1Dd7eE111E03A8D2B554fe0db421aE46 
+
 ### Cast
 
 ```shell
