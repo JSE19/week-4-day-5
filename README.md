@@ -1,5 +1,7 @@
 ## Foundry
 
+Contract Address: 0x5764E83c1Dd7eE111E03A8D2B554fe0db421aE46 
+
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
